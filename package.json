@@ -2,7 +2,7 @@
   "name": "accountgenbot",
   "version": "2.0.0",
   "description": "A recode of the first version lol",
-  "main": "jewdev.js",
+  "main": "fluro.js",
   "scripts": {
     "start": "node index.js"
   },
